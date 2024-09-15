@@ -1,6 +1,6 @@
 # Lista de Tarefas
 
-Este repositório contém um projeto que constrói um aplicativo Todo List usando HTML, CSS e JavaScript. Ele foi desenvolvido como parte de um tutorial de projeto prático de um curso do YouTube. O aplicativo permite aos usuários adicionar e excluir tarefas com manipulação básica de DOM.
+Este repositório contém um projeto que constrói uma Lista de Tarefas usando HTML, CSS e JavaScript. Ele foi desenvolvido como parte de um tutorial de projeto prático de um curso do YouTube. O aplicativo permite aos usuários adicionar e excluir tarefas com manipulação básica de DOM.
 
 ## Tabela de Conteúdos
 
@@ -12,7 +12,7 @@ Este repositório contém um projeto que constrói um aplicativo Todo List usand
 
 ## Visão Geral do Projeto
 
-Este projeto implementa uma lista de tarefas funcional onde os usuários podem gerenciar tarefas. O aplicativo persiste tarefas entre sessões usando localStorage e permite que os usuários adicionem e removam tarefas diretamente da lista. É um projeto para iniciantes com foco na estrutura HTML, estilo CSS e interatividade JavaScript.
+Este projeto implementa uma lista de tarefas funcional onde os usuários podem gerenciar tarefas. O aplicativo permite que os usuários adicionem e removam tarefas diretamente da lista. É um projeto para iniciantes com foco na estrutura HTML, estilo CSS e interatividade JavaScript.
 
 ## Funcionalidades
 
@@ -38,7 +38,7 @@ Este projeto implementa uma lista de tarefas funcional onde os usuários podem g
 
   ```bash
 
-   Lista de tarefas do cd
+   cd Todo-List
    ```
 
 3. Abra index.html em um navegador da web para visualizar e usar o aplicativo Todo List.
@@ -63,7 +63,7 @@ This repository contains a project that builds a Todo List application using HTM
 
 ## Project Overview
 
-This project implements a functional Todo List where users can manage tasks. The app persists tasks across sessions using localStorage, and allows users to add and remove tasks directly from the list. It is a beginner-friendly project focusing on HTML structure, CSS styling, and JavaScript interactivity.
+This project implements a functional Todo List where users can manage tasks. The app allows users to add and remove tasks directly from the list. It is a beginner-friendly project focusing on HTML structure, CSS styling, and JavaScript interactivity.
 
 ## Features
 
